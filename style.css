@@ -1,0 +1,337 @@
+/* section first */
+
+.google {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.google-div {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 29px;
+}
+
+.input-div {
+    display: inline-block;
+    width: 800px;
+}
+
+.input {
+    display: inline-block;
+    margin-left: 42px;
+    height: 40px;
+    width: 500px;
+    border-radius: 20px;
+    border: 4px solid whitesmoke;
+}
+
+.input-name {
+    display: inline-block;
+    float: left;
+    border-bottom: 10px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+    font-size: small;
+    font-weight: 100;
+}
+
+.input-all span {
+    float: right;
+    margin-left: 10px;
+}
+
+.input-all {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.searchbar {
+    height: 30px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+}
+
+button {
+    display: inline;
+    background-color: blue;
+    color: white;
+    border-color: blue;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.button-div {
+    display: inline-block;
+    float: right;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+button a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.button-div .material-symbols-outlined {
+    font-size: larger;
+    margin: 0 5px ; 
+}
+
+.material-symbols-outlined {
+    font-size: small;
+}
+
+.icon-all {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.all-div {
+    margin-left: 180px;
+    height: 40px;
+    border-bottom: 3px solid whitesmoke;
+}
+
+.all {
+    display: inline-block;
+    font-weight: 200;
+}
+
+.all-tool {
+    display: inline-block;
+    margin-left: 160px;
+    font-size: small;
+    font-weight: 100;
+}
+
+
+/* section second */
+
+#second {
+    margin-left: 185px;
+}
+
+.second-name {
+    display: inline-flex;
+    width: 700px;
+}
+
+.name {
+    display: inline-block;
+}
+
+.messi {
+    font-weight: lighter;
+}
+
+.lookalike {
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 60px;
+}
+
+h2 {
+    margin: 0;
+}
+
+.name p {
+    margin-bottom: 0;
+}
+
+.lookalike {
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+.lookalike-one {
+    height: 30px;
+    background-color: rgb(191, 210, 245);
+    width: 80px;
+    border-radius: 20px;
+    color: rgb(0, 89, 255);
+    display: inline-block;
+    text-align: center;
+    border: 2px solid rgb(47, 47, 255);
+    padding-top: 7px;
+}
+
+.lookalike-same {
+    height: 30px;
+    background-color: rgb(191, 210, 245);
+    width: 60px;
+    border-radius: 20px;
+    color: rgb(0, 89, 255);                                                                                                                                                  b(0, 87, 250);
+    display: inline-block;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.three-messi {
+    width: 460px;
+    height: 250px;
+    display: inline-block;
+    float: left;
+    margin-top: 10px;
+}
+
+.pic-one {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    float: left;
+    border-radius: 20px 0 0 20px;
+}
+
+.pic-two {
+    width: 200px;
+    height: 125px;
+    display: inline-block;
+    float: left;
+    border-radius: 0px 20px 0 0;
+    margin-left: 3px;
+}
+
+.pic-three {
+    width: 200px;
+    height: 125px;
+    display: inline-block;
+    border-radius: 0 0 20px 0px;
+    margin-left: 3px;
+}
+
+.three-div {
+    display: inline-block;
+    /* border: 1px solid black; */
+    float: left;
+    width: 450px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.three-one {
+    display: inline-block;
+    background-color: rgb(237, 241, 248);
+    float: left;
+    border-radius: 20px;
+}
+
+.youtube {
+    font-size: small;
+    margin-left: 10px;
+}
+
+.goat {
+    font-size: small;
+}
+
+.tiktok {
+    font-size: small;
+}
+
+.four {
+    font-size: small;
+}
+
+.age {
+    display: inline-block;
+    background-color: rgb(210, 223, 250);
+    float: left;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.age-top {
+    margin: 0 5px;
+    color: rgb(0, 89, 255);
+}
+
+.anto-age {
+    margin-bottom: 38px;
+    font-size: small;
+}
+
+.anto-class {
+    margin-bottom: 0;
+}
+
+.june {
+    font-size: small;
+    margin-top: 0;
+}
+
+.spouse {
+    display: inline-block;
+    width: 85px;
+    background-color: rgb(210, 223, 250);
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.spouse-top {
+    margin: 0 7px;
+    font-size: small;
+    color: rgb(0, 89, 255);
+}
+
+.spouse-p {
+    margin-bottom: 25px;
+}
+
+.forbes {
+    display: inline-block;
+    background-color: rgb(210, 223, 250);
+    width: 180px;
+    height: 120px;
+    margin-left: 10px;
+    margin-top: 20px;
+    color: rgb(0, 89, 255);
+    border-radius: 20px;
+}
+
+.forbes-top {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.forb {
+    display: inline-block;
+}
+
+.last-image {
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.last-image img {
+    border-radius: 10px;
+}
+
+.lio {
+    font-size: small;
+}
+
+.left-image {
+    width: 220px;
+    height: 125px;
+    border-radius: 20px 20px 0 0;
+}
+/* section three */
+
+#three {
+    margin-left: 185px;
+}
+
+.link {
+    display: inline-block;
+    width: 400px;
+}
+
+.andres {
+    display: inline-block;
+    width: 400px;
+    margin-left: 120px;
+}
